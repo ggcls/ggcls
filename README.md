@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Grégoire 👋
 
-<!--
-**ggcls/ggcls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** from France 🇫🇷, focused on building reliable, maintainable and well-designed software.
 
-Here are some ideas to get you started:
+I enjoy working across the stack, from modern web applications to backend services, developer tooling and open-source libraries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 What I like working on
+
+- Building clean and scalable web applications
+- Designing APIs and backend services
+- TypeScript libraries and developer tooling
+- Performance, DX and software quality
+- Distributed systems and microservices
+- Exploring software architecture patterns like **DDD** and **CQRS**
+- Contributing to **open-source**
+
+## 🌱 Open source
+
+I enjoy digging into existing codebases, understanding how things work and contributing improvements when I find something worth fixing.
+
+I'm particularly interested in the **JavaScript / TypeScript ecosystem**, lightweight tooling and libraries with a strong focus on developer experience.
+
+---
+
+<sub>Always building, learning and occasionally overengineering things for fun.</sub>
